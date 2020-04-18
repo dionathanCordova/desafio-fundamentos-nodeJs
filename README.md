@@ -1,5 +1,5 @@
 <!-- # bootcamp-gostack-desafios -->
-![](../images/header.png)
+![](./images/header.png)
 
 <h3 align="center">  Desafio 5 - Fundamentos NodeJs </h3>
 
@@ -13,7 +13,7 @@ Aplicação para cadastrar e listar despesas e lucros de uma api.
 
 ### Objeto (insomnia)
 
-![](../images/desafio-05/code.jpeg)
+![](./images/desafio-05/code.jpeg)
 
 - Listando despesas e lucros : Usando repositorio para simular o ambiente de banco de dados
 - Cadastrando despesas e lucros : Usando repositorio para simular o ambiente de banco de dados
